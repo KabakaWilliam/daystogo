@@ -5,8 +5,11 @@ This is also my first attempt at TypeScript so lets see where this goes. More st
 
 ## Available Scripts
 
-To run use
+To run locally use
 
 ### `npm start`
+
+Or... just check out this live version:
+### https://boring-hugle-6b8285.netlify.app/
 
 
